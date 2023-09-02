@@ -15,3 +15,10 @@
 
 Веса моделей (без поддержки ссылки):
 [Google Drive](https://huggingface.co/spaces/dokster/Garbage_Chatter/blob/main/final_model_all.pt)
+
+### Запуск демо
+```python3
+pip install torch, streamlit
+git clone https://github.com/naradey2k/climate-change-hackathon.git
+streamlit run main.py
+```
